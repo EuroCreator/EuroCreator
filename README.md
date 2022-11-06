@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Mathuww
+- 👋 Heyy, I’m Mathuww
 - 👀 I’m interested in Web and 3D
 - 🌱 I’m currently learning PHP, UX, javascript and CSS's animation
